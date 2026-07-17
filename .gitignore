@@ -365,3 +365,4 @@ FodyWeavers.xsd
 # Custom files
 .gitignore
 .gitattributes
+./director.egg-info
