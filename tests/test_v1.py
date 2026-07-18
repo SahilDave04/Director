@@ -1,7 +1,6 @@
 from director import DisplayTree
 
-if __name__ == "__main__":
-       
+def test_main():
     custom_path = ".//tests//Main_Directory"
 
     # 1. Test for String Representation
